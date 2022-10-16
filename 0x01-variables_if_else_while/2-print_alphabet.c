@@ -2,10 +2,9 @@
 
 /**
  * main - prints alpha in lower case
- *
- * Return - Always 0 (success)
+ * Return - Always 0
  */
-void main(void)
+int main(void)
 {
 	char lc;
 
