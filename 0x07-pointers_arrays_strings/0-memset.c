@@ -11,7 +11,9 @@
  * @s: a pointer to the memory area to be filled
  * @c: the char to fill the memory area with
  * @n: the number of bytes to be filled
+ *
  * Return: a pointer to the filled memory area @s
+ *
  */
 char *_memset(void *s, int c, size_t n)
 {
