@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stddef.h>
+
 /**
  * _strpbrk - located the first occurence in s if any bytes in accept
  * @s: the string we look for occurences in
