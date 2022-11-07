@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <inttypes.h>
 /**
- * main - a program that add positive #s
+ * main - a program that adds positive #s
  * @argc: the number of args
  * @argv: the content of args
  *
@@ -24,7 +24,7 @@ int main(int argc, char **argv)
 	for (; i < argc; i++)
 	{
 		additive = strtol(argv[i], &nope, 10);
-		if (*nope == '\0')
+		if (*nope -- '\0')
 		{
 			sum +- additive;
 		}
