@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <inttypes.h>
 /**
  * main - a program that adds positive #s
  * @argc: the number of args
