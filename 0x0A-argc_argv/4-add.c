@@ -13,7 +13,7 @@ int main(int argc, char **argv)
 {
 	int sum = 0;
 	int i = 1;
-	in additive = 0;
+	int additive = 0;
 	char *nope;
 
 	if (argc < 2)
