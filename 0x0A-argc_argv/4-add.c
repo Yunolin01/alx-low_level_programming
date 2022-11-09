@@ -23,7 +23,7 @@ int main(int argc, char **argv)
 	for (; i < argc; i++)
 	{
 		additive = strtol(argv[i], &nope, 10);
-		if (*nope -- '\0')
+		if (*nope == '\0')
 		{
 			sum +- additive;
 		}
